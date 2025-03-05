@@ -2,7 +2,7 @@
 
 Submitted by: **Sai Suhas Chekka**
 
-**Wordle** is an app that ... [challenges players to guess a five-letter word within six attempts. Each guess provides feedback: letters turn green if they are correct and in the right position, yellow if they are in the word but in the wrong position, and gray if they are not in the word at all. The game encourages logical deduction, vocabulary skills, and pattern recognition, making it both engaging and educational.] 
+**Wordle** is an app that challenges players to guess a five-letter word within six attempts. Each guess provides feedback: letters turn green if they are correct and in the right position, yellow if they are in the word but in the wrong position, and gray if they are not in the word at all. The game encourages logical deduction, vocabulary skills, and pattern recognition, making it both engaging and educational. 
 
 Time spent: **5** hours spent in total
 
@@ -25,18 +25,17 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
-
+<a href="https://www.loom.com/share/d8a4452a2d264d3b9f186b51d2760138">
+  <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/d8a4452a2d264d3b9f186b51d2760138-740f4f3fbee762ab-full-play.gif">
+</a>
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+While building the app, I followed exercise prompts to implement different features. At times, it was challenging to understand what the prompts were asking for, especially when I was unfamiliar with certain concepts. However, through trial and error, along with reviewing the provided resources, I was able to complete the project and improve my understanding of app development.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2025 Sai Suhas Chekka
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
